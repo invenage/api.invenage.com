@@ -1,0 +1,11 @@
+bin
+.vscode
+.ionide
+.idea
+*/obj
+*.sln.DotSettings.user
+*.csproj.user
+.vs
+.DS_Store
+InvenageAPI/appsettings.Development.json
+InvenageAPI/appsettings.Local.json
